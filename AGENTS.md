@@ -1,29 +1,37 @@
 # AGENTS.md
 
-## Project Overview
+## プロジェクト概要
 
-TODO: Describe the purpose of this repository.
+TODO: このリポジトリの目的を記載する。
 
-## Repository Structure
+## リポジトリ構成
 
-TODO: Note the important directories and files once they exist.
+TODO: 主要なディレクトリやファイルができたら記載する。
 
-## Development Setup
+## 開発環境
 
-TODO: Add setup commands, required tools, and environment notes.
+TODO: セットアップコマンド、必要なツール、環境に関する注意点を記載する。
 
-## Working Rules
+## 作業ルール
 
-TODO: Add project-specific conventions and collaboration rules.
+TODO: プロジェクト固有の規約や共同作業のルールを記載する。
 
-## Verification
+## ドキュメント
 
-TODO: Add test, lint, type-check, and manual verification commands.
+- プロジェクトのドキュメントは `docs/` 配下に置く。
+- プロダクト要件やユースケースは `docs/requirements.md` に記載する。
+- アーキテクチャや実装設計は `docs/design.md` に記載する。
+- セットアップ、デプロイ、運用に関するメモは `docs/operations.md` に記載する。
+- `README.md` はプロジェクト概要とクイックスタートに絞る。
 
-## Deployment
+## 検証
 
-TODO: Add deployment or release steps if applicable.
+TODO: テスト、lint、型チェック、手動確認のコマンドを記載する。
 
-## Notes for Future Codex Sessions
+## デプロイ
 
-TODO: Capture recurring corrections or project-specific assumptions here.
+TODO: 必要に応じて、デプロイやリリースの手順を記載する。
+
+## 今後のCodexセッション向けメモ
+
+TODO: 繰り返し発生した修正点や、プロジェクト固有の前提を記録する。
